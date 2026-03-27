@@ -23,5 +23,5 @@ When editing `profile/README.md`, **keep the strict “Scope (read this first)�
 
 If Swamy edits **course or lab repositories**, use **that repository’s** `CLAUDE.md` and `.github/copilot-instructions.md`, not this file — and still treat those repos as **his personal learning space**, not a product for others, unless he says otherwise.
 
-**Version**: 1.1 (org profile, Swamy-only strict)  
+**Version**: 1.1 (org profile, Swamy-only strict)
 **Last updated**: March 28, 2026
