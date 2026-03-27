@@ -1,0 +1,23 @@
+---
+description: Scope for bits-dsai GitHub organization profile repository
+globs: *
+alwaysApply: true
+---
+
+# Organization profile repository
+
+This workspace is the **GitHub org profile** repo for `bits-dsai`. The public face is `profile/README.md`.
+
+## Do
+
+- Edit `profile/README.md` and root `README.md` for org messaging, disclaimers, and structure descriptions.
+- Keep language aligned with a **personal academic workspace** (not an official institutional publication).
+
+## Do not
+
+- Treat this as **t1-data-preprocessing** or any course repo: no seven-layer week companions, no `notebooks/` or `src/` scaffolding, no uv/CI commands from course templates.
+- Add large skill packs, workflows, or duplicated `.github` assets from other repos unless the maintainer explicitly wants them **here**.
+
+## Escalation
+
+For trimester repositories, open **that** repository and follow **its** `CLAUDE.md` and rules.
