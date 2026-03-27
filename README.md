@@ -1,8 +1,8 @@
-# bits-dsai `.github` (organization profile)
+# msc-dsai-swamypkv-practice `.github` (organization profile)
 
-This repository holds the **GitHub organization profile** for [bits-dsai](https://github.com/bits-dsai).
+This repository holds the **GitHub organization profile** for [msc-dsai-swamypkv-practice](https://github.com/msc-dsai-swamypkv-practice).
 
-**Strict scope:** The **bits-dsai** organization is **Swamy PKV’s personal learning workspace only**. It is **not** maintained for other students, the public, or third-party use as courseware or templates, even when individual repositories are public. See **`profile/README.md`** for the full statement.
+**Strict scope:** The **msc-dsai-swamypkv-practice** organization is **Swamy PKV’s personal learning workspace only**. It is **not** maintained for other students, the public, or third-party use as courseware or templates, even when individual repositories are public. See **`profile/README.md`** for the full statement.
 
 ## Contents
 

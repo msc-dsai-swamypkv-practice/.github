@@ -1,16 +1,16 @@
 ---
-description: Scope for bits-dsai GitHub organization profile repository
+description: Scope for msc-dsai-swamypkv-practice GitHub organization profile repository
 globs: *
 alwaysApply: true
 ---
 
 # Organization profile repository
 
-This workspace is the **GitHub org profile** repo for `bits-dsai`. The public face is `profile/README.md`.
+This workspace is the **GitHub org profile** repo for `msc-dsai-swamypkv-practice`. The public face is `profile/README.md`.
 
 ## Organization-wide rules (non-negotiable)
 
-The **entire bits-dsai organization** and **all repositories under it** are:
+The **entire msc-dsai-swamypkv-practice organization** and **all repositories under it** are:
 
 1. **Swamy PKV’s learning** — personal study artifacts, not institutional publishing or third-party courseware.
 2. **Only for Swamy** — not maintained as a resource “for anyone else.” Never edit org-facing Markdown to welcome a general audience, imply shared curriculum, or invite others to treat repos as official learning material.

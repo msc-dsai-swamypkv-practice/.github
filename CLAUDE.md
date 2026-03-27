@@ -2,13 +2,13 @@
 
 ## Repository
 
-**GitHub organization profile** for the `bits-dsai` organization on GitHub.
+**GitHub organization profile** for the `msc-dsai-swamypkv-practice` organization on GitHub.
 
 This repository exists so GitHub can render the **organization README** from `profile/README.md`. It is **not** a course codebase: there is no `src/`, `notebooks/`, or application to run.
 
 ## Non-negotiable framing: Swamy-only
 
-The **entire bits-dsai organization** and **all repositories under it** are:
+The **entire msc-dsai-swamypkv-practice organization** and **all repositories under it** are:
 
 1. **Swamy’s learning** — personal academic artifacts, not institutional or third-party curriculum.
 2. **Only for Swamy** — not presented as a resource for other learners, employers, or the public. Never reword `profile/README.md` to imply a general audience, “students like you,” open courseware, or community use.

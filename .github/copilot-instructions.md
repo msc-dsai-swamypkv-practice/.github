@@ -1,6 +1,6 @@
 # GitHub Copilot / agent instructions — organization profile repository
 
-**Repository role**: GitHub **organization profile** for `bits-dsai`. GitHub displays `profile/README.md` on the org page.
+**Repository role**: GitHub **organization profile** for `msc-dsai-swamypkv-practice`. GitHub displays `profile/README.md` on the org page.
 
 ## Organization-wide stance (must honor)
 
