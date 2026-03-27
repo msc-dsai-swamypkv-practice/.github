@@ -1,0 +1,31 @@
+---
+description: Scope for bits-dsai GitHub organization profile repository
+globs: *
+alwaysApply: true
+---
+
+# Organization profile repository
+
+This workspace is the **GitHub org profile** repo for `bits-dsai`. The public face is `profile/README.md`.
+
+## Organization-wide rules (non-negotiable)
+
+The **entire bits-dsai organization** and **all repositories under it** are:
+
+1. **Swamy PKV’s learning** — personal study artifacts, not institutional publishing or third-party courseware.
+2. **Only for Swamy** — not maintained as a resource “for anyone else.” Never edit org-facing Markdown to welcome a general audience, imply shared curriculum, or invite others to treat repos as official learning material.
+
+## Do
+
+- Edit `profile/README.md` and root `README.md` in line with the strict **Scope (read this first)** block in the profile.
+- Keep disclaimers accurate: personal workspace, not BITS-official.
+
+## Do not
+
+- Soften or remove the **personal-only / not for others** stance unless Swamy explicitly asks.
+- Treat this folder as **t1-data-preprocessing** or any course repo: no seven-layer week companions, no `notebooks/` or `src/` scaffolding, no uv/CI commands from course templates.
+- Add large skill packs, workflows, or duplicated `.github` assets from other repos unless Swamy explicitly wants them **here**.
+
+## Escalation
+
+For trimester repositories, open **that** repository and follow **its** `CLAUDE.md` and rules — while remembering the org is **Swamy-only learning**, not a public program.
