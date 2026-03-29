@@ -24,7 +24,11 @@ When editing `profile/README.md` or root `README.md`, **preserve and respect** t
 ## What not to assume
 
 - **Do not** apply Term 1 “seven-layer week companion” rules, preprocessing CI commands, or course folder layouts here. Those live in individual `t1-*` (and other) repositories.
-- **Do not** add workflows, Python tooling, or skills bundles unless Swamy explicitly wants automation in *this* meta repo.
+
+## CI checks
+
+- **No** Python or markdown CI — this repo is org profile Markdown only.
+- **Skills mirror:** `.github/workflows/ci-skills-parity.yml` keeps `.github/skills/**` and `.cursor/skills/**` byte-identical (same pattern as course repos). Edit skills only when updating bundled agent context for this meta repo.
 
 ## Assistant alignment
 
@@ -38,3 +42,6 @@ When editing `profile/README.md` or root `README.md`, **preserve and respect** t
 | `profile/README.md` | Organization profile shown on GitHub |
 | `.github/copilot-instructions.md` | Copilot / agent scope for this repo only |
 | `.cursor/rules/00_org-profile-repository.mdc` | Cursor scope for this repo only |
+| `.cursor/skills.md` | Bundled skills pointer |
+| `.github/skills/` | Canonical agent skills; mirrored at `.cursor/skills/` |
+| `.github/workflows/ci-skills-parity.yml` | Verifies skills mirror parity |

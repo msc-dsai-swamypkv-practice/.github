@@ -1,7 +1,5 @@
 # Cursor skills — organization profile repo
 
-This repository has **no bundled agent skills** under `.github/skills/` or `.cursor/skills/`. It only hosts the org profile (`profile/README.md`) and lightweight meta files.
+**Bundled skills:** `.github/skills/` (canonical) and `.cursor/skills/` (identical mirror). Bundles: **`org-profile`**. **`.github/workflows/ci-skills-parity.yml`** verifies the mirror when skills paths change.
 
-The **msc-dsai-swamypkv-practice** organization is **Swamy’s personal learning workspace only** — not a shared curriculum for others. See `profile/README.md` and `.cursor/rules/00_org-profile-repository.mdc`.
-
-For individual **course repositories** (for example `t1-data-preprocessing`), use that repo’s skills and rules locally.
+This is **not** a course codebase — no Python CI. For trimester work, open the relevant `t1-*` repo. See root `CLAUDE.md`.
