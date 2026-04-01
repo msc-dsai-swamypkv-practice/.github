@@ -35,11 +35,16 @@ When editing `profile/README.md` or root `README.md`, **preserve and respect** t
 - Prefer **clear, accurate Markdown** and the **strict personal-only** framing.
 - When the user works on **course repos**, open that repository’s own `CLAUDE.md` and `.github/copilot-instructions.md` — and still treat those repos as **Swamy’s personal learning**, not public course material, unless Swamy overrides.
 
+## Agent skills (`SKILL.md`)
+
+Bundled on-demand procedures live under `.github/skills/` (mirrored at `.cursor/skills/`). They use YAML frontmatter plus a Markdown body so agents can match tasks without loading everything up front. **`docs/agent-skills.md`** explains how that complements `CLAUDE.md`, rules, and MCP for this meta repo and the wider org layout.
+
 ## Key files
 
 | Path | Purpose |
 |------|---------|
 | `profile/README.md` | Organization profile shown on GitHub |
+| `docs/agent-skills.md` | SKILL.md pattern, progressive disclosure, skills mirror |
 | `.github/copilot-instructions.md` | Copilot / agent scope for this repo only |
 | `.cursor/rules/00_org-profile-repository.mdc` | Cursor scope for this repo only |
 | `.cursor/skills.md` | Bundled skills pointer |

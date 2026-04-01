@@ -17,6 +17,7 @@ When editing `profile/README.md`, **keep the strict “Scope (read this first)�
 
 - **Primary file**: `profile/README.md` — maintain the strict personal-use scope, disclaimer, and author block.
 - **Root `README.md`**: Meta only; reinforce Swamy-only scope in one short line if touched.
+- **`docs/agent-skills.md`**: Explains the bundled `SKILL.md` pattern (`.github/skills/` ↔ `.cursor/skills/`) for agents; update only if the skills layout changes.
 - Prefer **minimal, accurate Markdown**; avoid emoji-heavy churn unless Swamy asks.
 
 ## Cross-repo work

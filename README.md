@@ -9,6 +9,7 @@ This repository holds the **GitHub organization profile** for [msc-dsai-swamypkv
 - **`profile/README.md`** — Organization README shown on GitHub (includes the strict personal-use scope).
 - **`LICENSE`** — License for material in this repository.
 - **`.github/copilot-instructions.md`** — Agent scope for *this* meta repo only.
+- **`docs/agent-skills.md`** — How bundled `SKILL.md` files and the `.github/skills` ↔ `.cursor/skills` mirror fit with `CLAUDE.md` and rules.
 - **`.cursor/rules/`** — Cursor rules scoped to this meta repository.
 
 Course and lab artifacts live in separate repositories (`t1-*`, `t2-*`, etc.); each of those is still **personal learning for Swamy**, not a shared product.
